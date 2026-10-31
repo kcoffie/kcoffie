@@ -8,7 +8,7 @@ A production system for a real dog boarding business, built solo by directing Cl
 
 I ran it the way I'd run a team: design notes challenged before code is written, a reviewer who didn't write the code, rules enforced by machines, and failures that alert someone instead of passing quietly.
 
-- 2,687 tests, measured by mutation testing rather than test count
+- 2,699 tests, measured by mutation testing rather than test count
 - Architecture decision records for the choices that are expensive to undo
 - An honest account of production failures and what each one changed
 
