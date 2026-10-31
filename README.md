@@ -4,7 +4,7 @@ Senior Software Engineer and Engineering Manager.
 
 ## Featured: [Pawroll](https://github.com/kcoffie/dog-boarding)
 
-A production system for a real dog boarding business, built solo by directing Claude Code and run unattended. It syncs from a booking site with no API and delivers daily rosters, with payroll heading into client testing.
+A dog boarding operations platform that syncs from a booking site with no API, delivers daily rosters unattended and calculates payroll. I own the requirements, design decisions and quality gates; Claude Code writes the implementation.
 
 I ran it the way I'd run a team: design notes challenged before code is written, a reviewer who didn't write the code, rules enforced by machines, and failures that alert someone instead of passing quietly.
 
